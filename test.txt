@@ -1,4 +1,0 @@
-
-
-//Start server and live reloading
-webpack-dev-server --hot --inline
